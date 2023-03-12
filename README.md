@@ -1,16 +1,28 @@
-### Hi there 👋
+## 📌 Contancts
+[![Linkedin](https://img.shields.io/badge/-Linkedin-229ED9?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-kohno-80a06526a)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/F1ashback)
 
-<!--
-**KohnoA/KohnoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔥 Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,git,figma,vite,webpack,react,redux,jest)](https://kohnoa.github.io/rsschool-cv/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏯 Codewars
+[![codewars](https://www.codewars.com/users/rsschool_ac5844a9757fb539/badges/large)](https://www.codewars.com/users/rsschool_ac5844a9757fb539)
+
+
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=KohnoA&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=KohnoA&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KohnoA&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+---
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KohnoA&icon=0&color=0" />
+  </a>
+</div>
+
