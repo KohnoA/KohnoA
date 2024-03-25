@@ -4,7 +4,7 @@
 
 
 ## 🔥 Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,git,figma,vite,webpack,react,redux,jest)](https://kohnoa.github.io/rsschool-cv/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,git,figma,vite,webpack,rollupjs,react,nextjs,redux,jest,cypress)](https://kohnoa.github.io/rsschool-cv/)
 
 
 ## 🏯 Codewars
