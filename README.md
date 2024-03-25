@@ -8,7 +8,7 @@
 
 
 ## 🏯 Codewars
-[![codewars](https://www.codewars.com/users/rsschool_ac5844a9757fb539/badges/large)](https://www.codewars.com/users/rsschool_ac5844a9757fb539)
+[![codewars](https://www.codewars.com/users/rsschool_ac5844a9757fb539/badges/large)](https://www.codewars.com/users/KohnoAl)
 
 
 ## 📊 GitHub Stats
